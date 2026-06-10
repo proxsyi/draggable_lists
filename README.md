@@ -1,10 +1,6 @@
-# Draggable Lists
+## Draggable Lists
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1607S8)
-
-Logo made by [@CarbonGhost](https://github.com/CarbonGhost)
-
-Original mod by [MrMelon54](https://github.com/mrmelon54/draggable_lists), maintained for Fabric 26.1.x by [proxsyi](https://github.com/proxsyi/draggable_lists)
+Requires the [Fabric Loader](https://fabricmc.net/use/) and [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
 ## Setup
 
@@ -16,9 +12,13 @@ Original mod by [MrMelon54](https://github.com/mrmelon54/draggable_lists), maint
 
 ## Discord
 
-- https://discord.gg/usbmdrJ
+[@mrmelon54](https://mrmelon54.com/minecraft)'s [Discord server](https://discord.gg/usbmdrJ)
 
-## Download
 
-- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/draggable-lists)
-- [Modrinth](https://modrinth.com/mod/draggable-lists)
+## Credits
+
+Ported by [@proxsyi](https://github.com/proxsyi)
+
+Logo made by [@CarbonGhost](https://github.com/CarbonGhost)
+
+[Original Mod](https://modrinth.com/mod/draggable-lists) by [@mrmelon54](https://mrmelon54.com/minecraft)
