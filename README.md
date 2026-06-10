@@ -4,6 +4,8 @@
 
 Logo made by [@CarbonGhost](https://github.com/CarbonGhost)
 
+Original mod by [MrMelon54](https://github.com/mrmelon54/draggable_lists), maintained for Fabric 26.1.x by [proxsyi](https://github.com/proxsyi/draggable_lists)
+
 ## Setup
 
 - Drop the mod in the mods folder

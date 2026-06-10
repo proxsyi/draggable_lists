@@ -6,5 +6,6 @@
   "moddesc": "Draggable resource packs, datapacks and servers",
   "modwebsite": "https://mrmelon54.com/minecraft/draggable-lists",
   "modsource": "https://github.com/mrmelon54/draggable_lists",
-  "modissue": "https://github.com/mrmelon54/draggable_lists/issues"
+  "modissue": "https://github.com/mrmelon54/draggable_lists/issues",
+  "modfork": "https://github.com/proxsyi/draggable_lists"
 }

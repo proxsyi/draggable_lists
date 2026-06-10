@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "Draggable Lists",
   "description": "${description}",
-  "authors": ["MrMelon54, proxsyi"],
+  "authors": ["MrMelon54", "proxsyi"],
   "contact": {
     "homepage": "https://mrmelon54.com/minecraft/draggable-lists",
     "sources": "https://github.com/mrmelon54/draggable_lists, https://github.com/proxsyi/draggable_lists",
